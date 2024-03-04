@@ -2,7 +2,7 @@
 
 Submitted by: **Jose Plaud**
 
-This web app: **insert description**
+This web app: **This web app is composed of restaurants near my campus. The goal was to get a hang of components.**
 
 Time spent: **3** hours spent in total
 
@@ -35,6 +35,7 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
+![](https://github.com/Josee1031/Web102_P1/blob/main/src/images/kapture.gif)
 ## Notes
 
 Describe any challenges encountered while building the app.
