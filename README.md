@@ -29,7 +29,7 @@ Here's a walkthrough of implemented required features:
 <img src='https://github.com/Josee1031/Web102_P1/blob/main/src/images/kapture.gif' title='Video Walkthrough' width='50rem' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -38,7 +38,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Getting pictures for the components. Getting a folder with images would've made it easier.
 
 ## License
 
