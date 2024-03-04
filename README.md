@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='/src/images/Kapture.gif ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Josee1031/Web102_P1/blob/main/src/images/kapture.gif' title='Video Walkthrough' width='25rem' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -35,7 +35,7 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-![](https://github.com/Josee1031/Web102_P1/blob/main/src/images/kapture.gif)
+
 ## Notes
 
 Describe any challenges encountered while building the app.
