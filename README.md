@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/Josee1031/Web102_P1/blob/main/src/images/kapture.gif' title='Video Walkthrough' width='25rem' alt='Video Walkthrough' />
+<img src='https://github.com/Josee1031/Web102_P1/blob/main/src/images/kapture.gif' title='Video Walkthrough' width='50rem' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
